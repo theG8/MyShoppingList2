@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ShoppinglistHQ</string>
+    
+    <string name="hello_world">Hallo Welt</string>
+    
+    <string name="action_settings">Einstellungen</string>
+
+    <!--- contextual action bar -->
+    <string name="cab_delete">Eintrag löschen</string>
+    <string name="cab_change">Eintrag ändern</string>
+    <string name="cab_checked_string">ausgewählt</string>
+
+    <!-- allert dialog -->
+    <string name="dialog_title">Eintrag ändern</string>
+    <string name="dialog_quantity">Anzahl:</string>
+    <string name="dialog_product">Produkt:</string>
+    <string name="dialog_bt_positiv">Ändern</string>
+    <string name="dialog_bt_negativ">Abbrechen</string>
+
+    <!-- diverse -->
+    <string name="et_hint_quantity">Anzahl</string>
+    <string name="et_hint_product">Produkt</string>
+    <string name="bt_add_product">+</string>
+
+    <string name="editText_errorMessage">Das Feld darf nicht leer sein</string>
+
+
+</resources>
