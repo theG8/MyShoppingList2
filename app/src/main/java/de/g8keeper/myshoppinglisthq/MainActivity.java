@@ -394,7 +394,7 @@ public class MainActivity extends AppCompatActivity {
         adapter.clear();
         adapter.addAll(shoppingMemoList);
         adapter.notifyDataSetChanged();
-
+        
     }
 
     public void startScan(View view){
